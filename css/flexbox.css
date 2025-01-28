@@ -1,5 +1,4 @@
 /* CABEÇHALO */
-
 .cabecalho__container {
     display: flex;
     justify-content: space-between;
@@ -12,11 +11,22 @@
     display: none;
 }
 
+/* MENU */
 .menu__container {
     position: fixed;
     bottom: 0%;
     height: 74px;
     width: 100%;
+}
+
+.menu__lista {
+    display: flex;
+}
+
+.menu__lista:nth-child(),
+.menu__lista:nth-child(),
+.menu__lista:nth-child() {
+    display: none;
 }
 
 /* SUPERIOR SEÇÃO */
